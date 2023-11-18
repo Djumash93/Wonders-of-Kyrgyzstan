@@ -142,9 +142,9 @@ body {
 
 .heading-primary,
 .heading-tertirary {
-  color: #fff;
+  color: #ffffff;
   text-transform: uppercase;
-  font-weight: 300;
+  font-weight: 200;
 }
 .heading-primary span,
 .heading-tertirary span {
@@ -157,12 +157,12 @@ body {
     left top,
     right bottom,
     from(rgba(91, 113, 225, 0.85)),
-    to(rgba(30, 63, 232, 0.85))
+    to(rgba(27, 60, 226, 0.85))
   );
   background-image: linear-gradient(
     to bottom right,
     rgba(91, 113, 225, 0.85),
-    rgba(30, 63, 232, 0.85)
+    rgba(27, 60, 226, 0.85)
   );
 }
 
@@ -299,7 +299,7 @@ body {
 }
 
 .header {
-  background-color: #444;
+  background-color: #292933d5;
   padding: 0 5rem;
   height: 8rem;
   position: relative;
@@ -1112,10 +1112,10 @@ body {
     linear,
     left top,
     right bottom,
-    from(#617cf5),
-    to(#072cd3)
+    from(#a0b0f3),
+    to(#879cf7)
   );
-  background-image: linear-gradient(to right bottom, #617cf5, #072cd3);
+  background-image: linear-gradient(to right bottom, #a0b0f3, #072cd3);
   opacity: 0.7;
 }
 .card__picture-img {
@@ -1134,7 +1134,7 @@ body {
 .card__sub-heading {
   font-size: 1.2rem;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 600;
   grid-column: 1 / -1;
 }
 .card__text {
@@ -1173,7 +1173,7 @@ body {
   margin-top: auto;
 }
 .card__footer-value {
-  font-weight: 700;
+  font-weight: 600;
 }
 .card__footer-text {
   color: #999;
