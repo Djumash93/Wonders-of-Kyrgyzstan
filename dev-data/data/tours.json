@@ -1,66 +1,66 @@
 [
   {
     "startLocation": {
-      "description": "Miami, USA",
+      "description": "Lakes of Kyrgyzstan",
       "type": "Point",
-      "coordinates": [-80.185942, 25.774772],
-      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+      "coordinates": [74.6066926, 42.8777895],
+      "address": "22 Toktogul, Bishkek, Kyrgyzstan"
     },
     "ratingsAverage": 4.8,
     "ratingsQuantity": 6,
     "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
     "startDates": [
-      "2021-06-19T09:00:00.000Z",
-      "2021-07-20T09:00:00.000Z",
-      "2021-08-18T09:00:00.000Z"
+      "2024-06-19T09:00:00.000Z",
+      "2024-07-20T09:00:00.000Z",
+      "2024-08-18T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2955",
-    "name": "The Sea Explorer",
+    "name": "The Kayaker",
     "duration": 7,
     "maxGroupSize": 15,
     "difficulty": "medium",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
-    "price": 497,
-    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
-    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 600,
+    "summary": "Exploring the natural mountain lakes and rivers by kayaking",
+    "description": "A fitness intensive journey through the wild rivers and mountain lakes of kyrgyzstan. We will start in a high mountanous region, then drive to the famed pearl of central asia - Issyk Kul. From there we will kayak our way to the other side of the shore and hike at the southern shoreline towards more extreme mountain rivers. Some prior kayaking experience is encouraged.",
     "imageCover": "tour-2-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Lummus Park Beach",
+        "description": "Toktogul",
         "type": "Point",
-        "coordinates": [-80.128473, 25.781842],
+        "coordinates": [72.9451052, 41.8734702],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2958",
-        "description": "Islamorada",
+        "description": "Son-Kul, Naryn",
         "type": "Point",
-        "coordinates": [-80.647885, 24.909047],
+        "coordinates": [76.0057796, 41.4254935],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c2957",
-        "description": "Sombrero Beach",
+        "description": "Balykchy, Issyk Kul",
         "type": "Point",
-        "coordinates": [-81.0784, 24.707496],
+        "coordinates": [78.3901729, 42.4916808],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c2956",
-        "description": "West Key",
+        "description": "Karakol",
         "type": "Point",
-        "coordinates": [-81.768719, 24.552242],
+        "coordinates": [78.384544, 42.477768],
         "day": 5
       }
     ]
   },
   {
     "startLocation": {
-      "description": "Banff, CAN",
+      "description": "Kyrgyzstan Valleys",
       "type": "Point",
-      "coordinates": [-115.570154, 51.178456],
-      "address": "224 Banff Ave, Banff, AB, Canada"
+      "coordinates": [74.6574761, 42.7113464],
+      "address": "22 Toktogul, Bishkek, Kyrgyzstan"
     },
     "ratingsAverage": 5,
     "ratingsQuantity": 9,
@@ -71,8 +71,8 @@
       "2021-10-05T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2951",
-    "name": "The Forest Hiker",
-    "duration": 5,
+    "name": "The Mountain Hiker",
+    "duration": 7,
     "maxGroupSize": 25,
     "difficulty": "easy",
     "guides": [
@@ -80,51 +80,51 @@
       "5c8a201e2f8fb814b56fa186",
       "5c8a1f292f8fb814b56fa184"
     ],
-    "price": 397,
-    "summary": "Breathtaking hike through the Canadian Banff National Park",
-    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 500,
+    "summary": "Breathtaking hikes through the valleys and gorges of Kyrgyzstan",
+    "description": "Join a group of eager hikers and spend a week wading through the wild untouched nature in the valleys of Kyrgyzstan. Staring at Jety Ogyz, this hike is advised for people of intermediate and above fitness level.",
     "imageCover": "tour-1-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2954",
-        "description": "Banff National Park",
+        "description": "Ala Archa National Park",
         "type": "Point",
-        "coordinates": [-116.214531, 51.417611],
+        "coordinates": [74.483103, 42.562003],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2953",
-        "description": "Jasper National Park",
+        "description": "Jety Oguz National Park",
         "type": "Point",
-        "coordinates": [-118.076152, 52.875223],
+        "coordinates": [78.3901729, 42.4916808],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c2952",
-        "description": "Glacier National Park of Canada",
+        "description": "Sary Chelek National Park",
         "type": "Point",
-        "coordinates": [-117.490309, 51.261937],
+        "coordinates": [73.00119, 40.9298182],
         "day": 5
       }
     ]
   },
   {
     "startLocation": {
-      "description": "Aspen, USA",
+      "description": "Karakol, Kyrgyzstan",
       "type": "Point",
-      "coordinates": [-106.822318, 39.190872],
-      "address": "419 S Mill St, Aspen, CO 81611, USA"
+      "coordinates": [78.384544, 42.477768],
+      "address": "Karakol Skii Resort, Kyrgyzstan"
     },
     "ratingsAverage": 4.5,
     "ratingsQuantity": 6,
     "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
     "startDates": [
-      "2022-01-05T10:00:00.000Z",
-      "2022-02-12T10:00:00.000Z",
-      "2023-01-06T10:00:00.000Z"
+      "2024-01-05T10:00:00.000Z",
+      "2024-02-12T10:00:00.000Z",
+      "2024-01-06T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c295a",
-    "name": "The Snow Adventurer",
+    "name": "The Snow Enthusiast",
     "duration": 4,
     "maxGroupSize": 10,
     "difficulty": "difficult",
@@ -133,33 +133,33 @@
       "5c8a23412f8fb814b56fa18c",
       "5c8a1f4e2f8fb814b56fa185"
     ],
-    "price": 997,
-    "summary": "Exciting adventure in the snow with snowboarding and skiing",
-    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "price": 600,
+    "summary": "Exciting adventure skiing/snowboarding in the wild peaks of Central Asia",
+    "description": "Have you ever been at the top of the world? Well with this skiing experience you will get the chance to to experience a sensation so few have in the world. The skiing experience is taylored for all levels, with the hardest black diamond slopes being at over 4000m elevation height. The cabins at which you will stay are state of the art with triple glazed pane windows and a fireplace to have the view and be cozy after a long day of skiing.",
     "imageCover": "tour-3-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c295c",
-        "description": "Aspen Highlands",
+        "description": "Karakol Skiing Resort",
         "type": "Point",
-        "coordinates": [-106.855385, 39.182677],
+        "coordinates": [78.384544, 42.477768],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c295b",
-        "description": "Beaver Creek",
+        "description": "Toguz Bulak",
         "type": "Point",
-        "coordinates": [-106.516623, 39.60499],
+        "coordinates": [76.7422982, 42.0915745],
         "day": 2
       }
     ]
   },
   {
     "startLocation": {
-      "description": "Las Vegas, USA",
+      "description": "Sary Chelek National Park",
       "type": "Point",
-      "coordinates": [-115.172652, 36.110904],
-      "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
+      "coordinates": [73.00119, 40.9298182],
+      "address": "Sary Chelek, Kyrgyzstan"
     },
     "ratingsAverage": 4.7,
     "ratingsQuantity": 7,
@@ -170,7 +170,7 @@
       "2022-08-12T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2961",
-    "name": "The Park Camper",
+    "name": "The Horse Rider",
     "duration": 10,
     "maxGroupSize": 15,
     "difficulty": "medium",
@@ -179,47 +179,47 @@
       "5c8a23412f8fb814b56fa18c",
       "5c8a201e2f8fb814b56fa186"
     ],
-    "price": 1497,
-    "summary": "Breathing in Nature in America's most spectacular National Parks",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "price": 1200,
+    "summary": "Roam through the wilderness of untouched nature in the mountains of Central Asia. Be taken aback by the stunning beauty of the little explored region whilst exploring the surroundings like a true steppe nomad.",
+    "description": "Prior experience of horse riding is encouraged, but by no means a deal breaker. If you need extra guidance there will be local guides to teach you. ",
     "imageCover": "tour-5-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2965",
-        "description": "Zion Canyon National Park",
+        "description": "Sary Chelek National Park",
         "type": "Point",
-        "coordinates": [-112.987418, 37.198125],
+        "coordinates": [73.00119, 40.9298182],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2964",
-        "description": "Antelope Canyon",
+        "description": "Besh Aral Nature Reserve",
         "type": "Point",
-        "coordinates": [-111.376161, 36.86438],
+        "coordinates": [73.00119, 40.9298182],
         "day": 4
       },
       {
         "_id": "5c88fa8cf4afda39709c2963",
-        "description": "Grand Canyon National Park",
+        "description": "Tereksay",
         "type": "Point",
-        "coordinates": [-112.115763, 36.058973],
+        "coordinates": [71.1562878, 41.4955725],
         "day": 5
       },
       {
         "_id": "5c88fa8cf4afda39709c2962",
-        "description": "Joshua Tree National Park",
+        "description": "Tash-Komur",
         "type": "Point",
-        "coordinates": [-116.107963, 34.011646],
+        "coordinates": [72.2206429, 41.3453178],
         "day": 9
       }
     ]
   },
   {
     "startLocation": {
-      "description": "NYC, USA",
+      "description": "Chuy, Kyrgyzstan",
       "type": "Point",
-      "coordinates": [-73.985141, 40.75894],
-      "address": "Manhattan, NY 10036, USA"
+      "coordinates": [75.2953881, 42.8373462],
+      "address": "22 Toktogul, Bishkek, Kyrgyzstan"
     },
     "ratingsAverage": 4.6,
     "ratingsQuantity": 5,
@@ -230,45 +230,45 @@
       "2021-06-09T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c295d",
-    "name": "The City Wanderer",
+    "name": "The Local Nomad",
     "duration": 9,
     "maxGroupSize": 20,
     "difficulty": "easy",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
-    "price": 1197,
-    "summary": "Living the life of Wanderlust in the US' most beatiful cities",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+    "price": 1000,
+    "summary": "Living the life of freedom in the countryside in the ways of a traditional Nomad",
+    "description": "This trip will have you living in ways of a traditional nomad, moving from place to place in the mountains and valleys whilst spending the night in a yurt. You will learn how to ride a horse, practice archery and swordsmanship, playa game on horsebakc which is akin to rugby on horseback. You will also get to interact with the locals and learn all the customs and culture all in incredbile surroundings. This is perfect for people who want a comfortable getaway with a rustic touch. The yurts are modernised and prebuilt. There is an option to stay in a real yurt where you can heat it at night by using a fireplace and chopping wood in the wild",
     "imageCover": "tour-4-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2960",
-        "description": "New York",
+        "description": "Chuy National Park",
         "type": "Point",
-        "coordinates": [-73.967696, 40.781821],
+        "coordinates": [75.2953881, 42.8373462],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c295f",
-        "description": "Los Angeles",
+        "description": "Koshoy",
         "type": "Point",
-        "coordinates": [-118.324396, 34.097984],
+        "coordinates": [75.2953881, 42.8373462],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c295e",
-        "description": "San Francisco",
+        "description": "Kyzyl Tuu",
         "type": "Point",
-        "coordinates": [-122.408865, 37.787825],
+        "coordinates": [78.3901729, 42.4916808],
         "day": 5
       }
     ]
   },
   {
     "startLocation": {
-      "description": "California, USA",
+      "description": "Bishkek, Kyrgyzstan",
       "type": "Point",
-      "coordinates": [-118.803461, 34.006072],
-      "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      "coordinates": [74.6066926, 42.8777895],
+      "address": "22 Toktogul, Bishkek, Kyrgyzstan"
     },
     "ratingsAverage": 3.9,
     "ratingsQuantity": 7,
@@ -279,141 +279,74 @@
       "2022-03-18T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2966",
-    "name": "The Sports Lover",
-    "duration": 14,
+    "name": "The City Lover",
+    "duration": 10,
     "maxGroupSize": 8,
-    "difficulty": "difficult",
+    "difficulty": "easy",
     "guides": [
       "5c8a21f22f8fb814b56fa18a",
       "5c8a1f292f8fb814b56fa184",
       "5c8a1f4e2f8fb814b56fa185"
     ],
-    "price": 2997,
-    "summary": "Surfing, skating, parajumping, rock climbing and more, all in one tour",
-    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "price": 1800,
+    "summary": "A city escape exploring the post Soviet/nomadic architecture and traditions. Join in the fun with Parajumping, rockclimbing and exploring the nightlife in the mix.",
+    "description": "Get to see the city and local restaurants and Kyrgyzstani hopitality in all its glory. You will be staying in a hotel in teh city, with day trips to the mountains and different activities every day. The pricetag takes care of everything including meeting you at the airport, hotel, food and drinks (breakfast, lunch, dinner). This tour culminates with a trip to Issyk Kul lake, where you will get to watch the World Nomad Games. ",
     "imageCover": "tour-6-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c296b",
-        "description": "Point Dume Beach",
+        "description": "Bishkek City",
         "type": "Point",
-        "coordinates": [-118.809361, 34.003098],
+        "coordinates": [74.6066926, 42.8777885],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c296a",
-        "description": "Venice Skate Park",
+        "description": "Tower Burana",
         "type": "Point",
-        "coordinates": [-118.47549, 33.987367],
+        "coordinates": [75.2503195, 42.746475000000004],
         "day": 4
       },
       {
         "_id": "5c88fa8cf4afda39709c2969",
-        "description": "San Diego Skydive",
+        "description": "World Nomad Games - Issyk Kul, Cholpon Ata",
         "type": "Point",
-        "coordinates": [-116.830104, 33.022843],
+        "coordinates": [77.048308, 42.638126],
         "day": 6
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2968",
-        "description": "Kern River Rafting",
-        "type": "Point",
-        "coordinates": [-118.4547, 35.710359],
-        "day": 7
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2967",
-        "description": "Yosemite National Park",
-        "type": "Point",
-        "coordinates": [-119.600492, 37.742371],
-        "day": 10
       }
     ]
   },
   {
     "startLocation": {
-      "description": "Utah, USA",
+      "description": "Issyk Kul",
       "type": "Point",
-      "coordinates": [-109.55099, 37.283469],
-      "address": "Bluff, UT 84512, USA"
+      "coordinates": [79.08365709322692, 42.0230642542617],
+      "address": "22 Toktogul, Bishkek, Kyrgyzstan"
     },
     "ratingsAverage": 4.8,
     "ratingsQuantity": 6,
     "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
     "startDates": [
-      "2021-03-23T10:00:00.000Z",
-      "2021-10-25T09:00:00.000Z",
-      "2022-01-30T10:00:00.000Z"
+      "2024-05-23T10:00:00.000Z",
+      "2024-06-25T09:00:00.000Z",
+      "2024-07-30T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2970",
-    "name": "The Star Gazer",
-    "duration": 9,
+    "name": "The Climber",
+    "duration": 14,
     "maxGroupSize": 8,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
-    "price": 2997,
-    "summary": "The most remote and stunningly beautiful places for seeing the night sky",
-    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 2500,
+    "summary": "Climb the peaks of Kyrgyzstan which are over 7500m in height.",
+    "description": "This is a tour for hardened mountain climbers. We will have designated sherpas and guides to help you in your journey",
     "imageCover": "tour-8-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2973",
-        "description": "Natural Bridges National Monument",
+        "description": "Climbing Peak Pobeda",
         "type": "Point",
-        "coordinates": [-109.99953, 37.629017],
-        "day": 1
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2972",
-        "description": "Horseshoe Bend",
-        "type": "Point",
-        "coordinates": [-111.50954, 36.883269],
-        "day": 3
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c2971",
-        "description": "Death Valley National Park",
-        "type": "Point",
-        "coordinates": [-117.07399, 36.501435],
-        "day": 6
-      }
-    ]
-  },
-  {
-    "startLocation": {
-      "description": "Yellowknife, CAN",
-      "type": "Point",
-      "coordinates": [-114.406097, 62.439943],
-      "address": "Yellowknife, NT X1A 2L2, Canada"
-    },
-    "ratingsAverage": 4.7,
-    "ratingsQuantity": 7,
-    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
-    "startDates": [
-      "2021-12-16T10:00:00.000Z",
-      "2022-01-16T10:00:00.000Z",
-      "2022-12-12T10:00:00.000Z"
-    ],
-    "_id": "5c88fa8cf4afda39709c2974",
-    "name": "The Northern Lights",
-    "duration": 3,
-    "maxGroupSize": 12,
-    "difficulty": "easy",
-    "guides": [
-      "5c8a21f22f8fb814b56fa18a",
-      "5c8a201e2f8fb814b56fa186",
-      "5c8a23412f8fb814b56fa18c"
-    ],
-    "price": 1497,
-    "summary": "Enjoy the Northern Lights in one of the best places in the world",
-    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
-    "imageCover": "tour-9-cover.jpg",
-    "locations": [
-      {
-        "_id": "5c88fa8cf4afda39709c2975",
-        "description": "Yellowknife",
-        "type": "Point",
-        "coordinates": [-114.406097, 62.439943],
+        "coordinates": [79.08365709322692, 42.0230642542617],
         "day": 1
       }
     ]
@@ -429,41 +362,27 @@
     "ratingsQuantity": 7,
     "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
     "startDates": [
-      "2021-02-12T10:00:00.000Z",
-      "2021-04-14T09:00:00.000Z",
-      "2021-09-01T09:00:00.000Z"
+      "2024-02-12T10:00:00.000Z",
+      "2024-04-14T09:00:00.000Z",
+      "2024-09-01T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c296c",
-    "name": "The Wine Taster",
-    "duration": 5,
+    "name": "The Tourist",
+    "duration": 14,
     "maxGroupSize": 8,
     "difficulty": "easy",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
-    "price": 1997,
-    "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
-    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 2000,
+    "summary": "Spend the entire time resting at the famed Issyk Kul lake with all of its amenities.",
+    "description": "This tour is more of a getaway and has you resting at the world's third largest natural mountain lake. You will be staying at a hotel that provides everything you need including food. There are all sorts of local amenities - retaurants, nightclubs, daily excursions etc... A perfect getaway to have Ibiza and Switzerland at your doorstep.",
     "imageCover": "tour-7-cover.jpg",
     "locations": [
       {
-        "_id": "5c88fa8cf4afda39709c296f",
-        "description": "Beringer Vineyards",
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Cholpon-Ata, Issyk Kul",
         "type": "Point",
-        "coordinates": [-122.479887, 38.510312],
+        "coordinates": [78.3901729, 42.4916808],
         "day": 1
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c296e",
-        "description": "Clos Pegase Winery & Tasting Room",
-        "type": "Point",
-        "coordinates": [-122.582948, 38.585707],
-        "day": 3
-      },
-      {
-        "_id": "5c88fa8cf4afda39709c296d",
-        "description": "Raymond Vineyard and Cellar",
-        "type": "Point",
-        "coordinates": [-122.434697, 38.482181],
-        "day": 5
       }
     ]
   }

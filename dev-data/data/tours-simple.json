@@ -33,7 +33,7 @@
 
   {
     "id": 2,
-    "name": "The Snow Adventurer",
+    "name": "The Snow Enthusiast",
     "duration": 4,
     "maxGroupSize": 10,
     "difficulty": "difficult",
@@ -56,7 +56,7 @@
     "ratingsAverage": 4.6,
     "ratingsQuantity": 54,
     "price": 1000,
-    "summary": "Living the life of Wanderlust in the countryside in the ways of a traditional Nomad",
+    "summary": "Living the life of freedom in the countryside in the ways of a traditional Nomad",
     "description": "This trip will have you living in ways of a traditional nomad, moving from place to place in the mountains and valleys whilst spending the night in a yurt. You will learn how to ride a horse, practice archery and swordsmanship, playa game on horsebakc which is akin to rugby on horseback. You will also get to interact with the locals and learn all the customs and culture all in incredbile surroundings. This is perfect for people who want a comfortable getaway with a rustic touch. The yurts are modernised and prebuilt. There is an option to stay in a real yurt where you can heat it at night by using a fireplace and chopping wood in the wild",
     "imageCover": "tour-4-cover.jpg",
     "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
@@ -72,8 +72,8 @@
     "ratingsAverage": 4.9,
     "ratingsQuantity": 19,
     "price": 1200,
-    "summary": "Breathing in Nature in Kyrgyzstan's spectacular scenery. All on horseback",
-    "description": "This tour is for the more hardy nature explorers. We will cover a wide mountanous area of Kyrgyzstan all on horseback. You will get to see waterfalls, mountains, intense wildlife with possible sightings of snow leopards. At night we have designated rest spots with hot showers in place, but you will be sleeping in a traditional yurt. This tour is a more extreme version of our Local Nomad tour. ",
+    "summary": " Roam through the wilderness of untouched nature in the mountains of Central Asia. Be taken aback by the stunning beauty of the little explored region whilst exploring the surroundings like a true steppe nomad.",
+    "description": " Prior experience of horse riding is encouraged, but by no means a deal breaker. If you need extra guidance there will be local guides to teach you. ",
     "imageCover": "tour-5-cover.jpg",
     "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
     "startDates": ["2024-08-05,10:00", "2024-03-20,10:00", "2024-08-12,10:00"]
@@ -112,7 +112,7 @@
   },
 
   {
-    "id": 6,
+    "id": 7,
     "name": "The Climber",
     "duration": 14,
     "maxGroupSize": 8,
@@ -124,6 +124,6 @@
     "description": "This is a tour for hardened mountain climbers. We will have designated sherpas and guides to help you in your journey",
     "imageCover": "tour-8-cover.jpg",
     "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
-    "startDates": ["2024-05-23,10:00", "2024-6-25,10:00", "2024-07-30,10:00"]
+    "startDates": ["2024-05-23,10:00", "2024-06-25,10:00", "2024-07-30,10:00"]
   }
 ]
