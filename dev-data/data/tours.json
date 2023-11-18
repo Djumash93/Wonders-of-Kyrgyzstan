@@ -135,7 +135,7 @@
     ],
     "price": 600,
     "summary": "Exciting adventure skiing/snowboarding in the wild peaks of Central Asia",
-    "description": "Have you ever been at the top of the world? Well with this skiing experience you will get the chance to to experience a sensation so few have in the world. The skiing experience is taylored for all levels, with the hardest black diamond slopes being at over 4000m elevation height. The cabins at which you will stay are state of the art with triple glazed pane windows and a fireplace to have the view and be cozy after a long day of skiing.",
+    "description": "Have you ever been at the top of the world? Well with this skiing trip you will get the chance to to experience a sensation so few have experienced in the world. The skiing experience is taylored for all levels, with the hardest black diamond slopes being at over 4000m elevation height. The cabins at which you will stay are state of the art with triple glazed pane windows and a fireplace to have the view and be cozy after a long day of skiing.",
     "imageCover": "tour-3-cover.jpg",
     "locations": [
       {
@@ -353,10 +353,10 @@
   },
   {
     "startLocation": {
-      "description": "California, USA",
+      "description": "Issyk Kul getaway",
       "type": "Point",
-      "coordinates": [-122.29286, 38.294065],
-      "address": "560 Jefferson St, Napa, CA 94559, USA"
+      "coordinates": [74.6066926, 42.8777895],
+      "address": "22 Toktogul, Bishkek, Kyrgyzstan"
     },
     "ratingsAverage": 4.4,
     "ratingsQuantity": 7,
